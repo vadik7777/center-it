@@ -1,0 +1,7 @@
+weather\impl\AbstractService.class
+weather\objects\Coords.class
+weather\objects\WeatherData.class
+weather\interfaces\Weather.class
+weather\impl\ServiceOpenWeatherMap.class
+weather\controllers\WeatherController.class
+weather\impl\ServiceYandex.class
